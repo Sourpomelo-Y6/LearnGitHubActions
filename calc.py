@@ -5,4 +5,4 @@ class Calc:
         self.b = b
 
     def add(self):
-        return  0 #self.a+self.b
+        return  self.a+self.b
